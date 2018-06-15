@@ -3,9 +3,9 @@
 This project came to fruishion as a proposed session for the [2018 Long Term Ecological Research (LTER) All-Scientist Meeting (ASM)](https://lternet.edu/lter-scientists-meeting-2018/).
 
 Organizers: 
-* Paul Julian II PhD [webpage](https://wetlandbiogeochem.weebly.com/), [email](mailto:pjulian@ufl.edu)
-* Adam Wymore PhD [webpage](https://colsa.unh.edu/faculty/wymore), [email](mailto:adam.wymore@unh.edu)
-* John Kominoski PhD [webpage](https://kominoskilab.wordpress.com/), [email](mailto:jkominos@fiu.edu)
+* Paul Julian II PhD ([webpage](https://wetlandbiogeochem.weebly.com/), [email](mailto:pjulian@ufl.edu))
+* Adam Wymore PhD ([webpage](https://colsa.unh.edu/faculty/wymore), [email](mailto:adam.wymore@unh.edu))
+* John Kominoski PhD ([webpage](https://kominoskilab.wordpress.com/), [email](mailto:jkominos@fiu.edu))
 
 ***
 
