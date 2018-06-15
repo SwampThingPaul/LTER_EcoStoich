@@ -18,7 +18,7 @@ The application of long-term data to understand the temporal and spatial variabi
 The objective of this work is to stimulate cross-site syntheses related to biogeochemical cycling of energy and nutrients and to better understanding mechanisms that control productivity. The primary goal of this work is to foster collaborative synthesis between LTER sites related to ecological stoichiometry. 
 
 ## Where and what is an LTER site
-LTER sites (there International Counter Parts; [ILTER](https://www.ilter.network/)) are located around the world. These sites with a rich history of ecological inquiry, collaboration across a wide range of research topics, and engagement with students, educators, and community members. More information on LTER sites and the LTER program visit the visit the [NSF LTER webpage](https://lternet.edu/).
+LTER sites (and their international counterparts; [ILTER](https://www.ilter.network/)) are located around the world. These sites with a rich history of ecological inquiry, collaboration across a wide range of research topics, and engagement with students, educators, and community members. More information on LTER sites and the LTER program visit the visit the [NSF LTER webpage](https://lternet.edu/).
 
 ![ltersites](https://lternet.edu/wp-content/uploads/2018/03/LTER-sites-2017-key-144.jpg)
 
