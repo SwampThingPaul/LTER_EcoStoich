@@ -7,7 +7,8 @@ The Florida Coastal Everglades Long Term Ecological Research program (FCE-LTER) 
 
 Vegetation and ecosystem characteristics in ENP vary along a salinity gradient. The freshwater landscapes within ENP are dominated by a ridge and slough topography interspersed with sawgrass marshes and tree islands. Ecotone regions grade from freshwater to brackish environments and are characterized by oligohaline, mixed marsh/mangrove forests. Farther downstream in more saline water are fringing mangroves. Finally, Florida Bay receives seawater from the GoM and a small volume of freshwater runoff from ENP and is characterized as a seagrass-dominated marine environment (Chambers and Pederson 2006; Childers 2006). For the purposes of this study, ENP has been divided into three hydrologic regions including SRS, TS and Ph with the monitoring sites established to capture variation in ecosystem types amongst these regions.
 
-STUDY AREA MAP
+![picture1](https://user-images.githubusercontent.com/36565183/41534957-799739d0-72ce-11e8-8e91-42f1d3ee8c1c.jpg)
+
 
 ### Is the Everglades Ecosystem a Stoichiometric Deviant? An Investigation of Ecological Stoichiometry Along the Aquatic Contnuum of the Everglades Ecosystem.
 This study was presented as a poster-presentation at the [2018 FCE LTER All-Scientist Meeting](http://fcelter.fiu.edu/about_us/meetings/asm2018/) in Miami May 7-8, 2018. This work is currently being developed into a manuscript. 
