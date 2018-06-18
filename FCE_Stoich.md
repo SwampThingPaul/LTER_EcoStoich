@@ -12,7 +12,7 @@ STUDY AREA MAP
 ### Is the Everglades Ecosystem a Stoichiometric Deviant? An Investigation of Ecological Stoichiometry Along the Aquatic Contnuum of the Everglades Ecosystem.
 This study was presented as a poster-presentation at the [2018 FCE LTER All-Scientist Meeting](http://fcelter.fiu.edu/about_us/meetings/asm2018/) in Miami May 7-8, 2018. This work is currently being developed into a manuscript. 
 
-Poster Presentation: [Julian_etal_LTERStoich.pdf](https://github.com/SwampThingPaul/LTER_EcoStoich/files/2111138/Julian_etal_LTERStoich.pdf)
+Poster Presentation: [Julian_etal_LTERStoich.pdf](https://github.com/SwampThingPaul/LTER_EcoStoich/files/2111138/Julian_etal_LTERStoich.pdf)  _(Link downloads a pdf version of the poster)_
 
 
 #### Data Sources:
