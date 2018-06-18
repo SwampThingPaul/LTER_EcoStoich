@@ -9,23 +9,23 @@ Vegetation and ecosystem characteristics in ENP vary along a salinity gradient. 
 
 ![picture1](https://user-images.githubusercontent.com/36565183/41534957-799739d0-72ce-11e8-8e91-42f1d3ee8c1c.jpg)
 
+# Projects
 
-### Is the Everglades Ecosystem a Stoichiometric Deviant? An Investigation of Ecological Stoichiometry Along the Aquatic Contnuum of the Everglades Ecosystem.
+## Is the Everglades Ecosystem a Stoichiometric Deviant? An Investigation of Ecological Stoichiometry Along the Aquatic Contnuum of the Everglades Ecosystem.
 This study was presented as a poster-presentation at the [2018 FCE LTER All-Scientist Meeting](http://fcelter.fiu.edu/about_us/meetings/asm2018/) in Miami May 7-8, 2018. This work is currently being developed into a manuscript. 
 
 Poster Presentation: [Julian_etal_LTERStoich.pdf](https://github.com/SwampThingPaul/LTER_EcoStoich/files/2111138/Julian_etal_LTERStoich.pdf)  _(Link downloads a pdf version of the poster)_
 
 
 #### Data Sources:
-Surface water nutrient data used in this analysis can be found at the links below. All data are hosted on the FCE LTER webpage and made available to the public. 
+Surface water nutrient data used in this analysis can be found at the links below. All data are hosted on the FCE LTER webpage and made available to the public. All associated metadata including period of record, parameters, point-of-contacts, etc. can be found a links provided below. 
 
-[Shark River Slough](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Grahl_002)
-
-[Taylor Slough](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Losada_002)
-
-[Taylor Slough](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Rondeau_002)
-
-[Taylor Slough](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Rubio_002)
+| Data Type | Matrix | Sub Region |  
+|:----------|:-------|:-----------|
+| Grab Samples (Nutrients)| Surface Water | [Shark River Slough](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Grahl_002)|
+| | Surface Water | [Taylor Slough](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Losada_002) |
+| | Surface Water | [Taylor Slough](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Rondeau_002) |
+| | Surface Water | [Taylor Slough](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Rubio_002) |
 
 #### References
 
