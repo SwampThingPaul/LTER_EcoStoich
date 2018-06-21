@@ -18,14 +18,14 @@ Poster Presentation: [Julian_etal_LTERStoich.pdf](https://github.com/SwampThingP
 
 
 #### Data Sources:
-Surface water nutrient data used in this analysis can be found at the links below. All data are hosted on the FCE LTER webpage and made available to the public. All associated metadata including period of record, parameters, point-of-contacts, etc. can be found a links provided below. 
+Surface water nutrient data used in this analysis can be found at the links below. All data are hosted on the FCE LTER webpage and made available to the public. All associated metadata including period of record, parameters, point-of-contacts, etc. can be found at links provided below. 
 
-| Data Type | Matrix | Sub Region |  
-|:----------|:-------|:-----------|
-| Grab Samples (Nutrients)| Surface Water | [Shark River Slough](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Grahl_002)|
-| | Surface Water | [Taylor Slough](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Losada_002) |
-| | Surface Water | [Taylor Slough](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Rondeau_002) |
-| | Surface Water | [Taylor Slough](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Rubio_002) |
+| Data Type | Matrix | Sub Region | Hyperlink | 
+|:----------|:-------|:-----------|:-----|
+| Grab Samples (Nutrients)| Surface Water | Shark River Slough | [FCE LTER Link](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Grahl_002)|
+| |  | Taylor Slough | [FCE LTER Link](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Losada_002) |
+| |  |  | [FCE LTER Link](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Rondeau_002) |
+| |  | | [FCE LTER Link](http://fcelter.fiu.edu/data/core/metadata/?datasetid=LT_ND_Rubio_002) |
 
 #### References
 
