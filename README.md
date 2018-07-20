@@ -22,3 +22,8 @@ LTER sites (and their international counterparts; [ILTER](https://www.ilter.netw
 
 ![ltersites](https://lternet.edu/wp-content/uploads/2018/03/LTER-sites-2017-key-144.jpg)
 
+
+## Tentative Schedule 
+
+The workshop during the 2018 LTER ASM will be held October 1st (3:30pm - 5:00pm) in the Dolphin Meeting Room ([Link](http://sched.co/FYqW)). This workshop is set for 90-minutes and intended to inform and organize synthesis research specific to nutrient stoichiometry across the different LTER sites and affiliated networks. 
+
