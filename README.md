@@ -29,14 +29,14 @@ The workshop during the 2018 LTER ASM will be held October 1st (3:30pm - 5:00pm)
 
 The workshop will be organized into several invited very short talks to stimulate discussion (lighting talks ~7 minutes) followed by approximately 40-minutes of discussion. Below is a general schedule, it  is relatively tight for the speakers, these talks are intended to engage the group (activate that brain-power!!) to have a thoughtful discussion of ecological stoichiometry in the sense of long-term data. 
 
-| Time Slot | Duration (Minutes) | Agenda Item | 
-|:---------:|:--------:|:-----------------|
-|3:30 - 3:40| 10 | General Introductions |
-|3:40 - 3:47| 7  | Speaker #1 [Dr Walter K. Dodds](https://www.k-state.edu/biology/people/tenure/dodds/) (Streams; KNZ)|
-|3:47 - 3:54| 7  | Speaker #2 [Dr Becky Ball](http://www.public.asu.edu/~rball5/) (Deserts; MCM & CAP) |
-|3:54 - 4:01| 7  | Speaker #3 TBD |
-|4:01 - 4:08| 7  | Speaker #4 [Dr Adam Wymore](https://colsa.unh.edu/faculty/wymore) (Tropics; LUQ) |
-|4:08 - 4:50| 40 | Round Table Discussion |
-|4:50 - 5:00| 10 | Wrap-up |
+| Time Slot | Duration (Minutes) | Agenda Item | Ecosystem (LTER Site) |
+|:---------:|:--------:|:-----------------|:----:|
+|3:30 - 3:40| 10 | General Introductions | |
+|3:40 - 3:47| 7  | Speaker #1 [Dr Walter K. Dodds](https://www.k-state.edu/biology/people/tenure/dodds/)|Streams (KNZ)|
+|3:47 - 3:54| 7  | Speaker #2 [Dr Becky Ball](http://www.public.asu.edu/~rball5/) | Cold and Arid Deserts (MCM & CAP) |
+|3:54 - 4:01| 7  | Speaker #3 TBD | |
+|4:01 - 4:08| 7  | Speaker #4 [Dr Adam Wymore](https://colsa.unh.edu/faculty/wymore)| Tropics (LUQ) |
+|4:08 - 4:50| 40 | Round Table Discussion | |
+|4:50 - 5:00| 10 | Wrap-up | |
 
 
