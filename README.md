@@ -34,7 +34,7 @@ The workshop will be organized into several invited very short talks to stimulat
 |3:30 - 3:40| 10 | General Introductions | |
 |3:40 - 3:47| 7  | Speaker #1 [Dr Walter K. Dodds](https://www.k-state.edu/biology/people/tenure/dodds/)|Streams (KNZ)|
 |3:47 - 3:54| 7  | Speaker #2 [Dr Becky Ball](http://www.public.asu.edu/~rball5/) | Cold and Arid Deserts (MCM & CAP) |
-|3:54 - 4:01| 7  | Speaker #3 TBD | |
+|3:54 - 4:01| 7  | Speaker #3 [Dr John Kominoski](https://kominoskilab.wordpress.com/) | Coastal Wetlands (FCE) |
 |4:01 - 4:08| 7  | Speaker #4 [Dr Adam Wymore](https://colsa.unh.edu/faculty/wymore)| Tropics (LUQ) |
 |4:08 - 4:50| 40 | Round Table Discussion | |
 |4:50 - 5:00| 10 | Wrap-up | |
