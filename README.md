@@ -44,7 +44,7 @@ The workshop will be organized into several invited very short talks to stimulat
 
 Included in this repository is a excel spreadsheet to organize our synthesis efforts. The file can be found in the main branch or at this [location](https://github.com/SwampThingPaul/LTER_EcoStoich/blob/ccd7893ad0059e935b75d4f75a0cd9a1edc43373/Stoich_Synthesis.xlsx). This method of organizing synthesis topics/discussion points is something I stumbled across recently ([here](http://www.raulpacheco.org/2016/06/synthesizing-different-bodies-of-work-in-your-literature-review-the-conceptual-synthesis-excel-dump-technique/)) and thought it could be useful for this effort.
 
-***
+
 
 ## Presentations
 
