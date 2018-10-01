@@ -15,7 +15,7 @@ The overarching theme of ecological stoichiometric theory is to understand the c
 The application of long-term data to understand the temporal and spatial variability of ecological stoichiometry across biomes is a novel approach at ecosystem level understanding. Sites within the Long-Term Ecological Research (LTER) network include several biomes that span a climate gradient with variable internal complexities and external pressures. Each site can be highly dynamic with countless biotic-abiotic interactions which influences local ecology. These interactions lead to ecosystem level complexities that influence and drive site and system biogeochemical cycling and productivity. Individual LTER sites have experienced localized effects of large scale changes to climate, disturbance, water resources, restoration, environmental regulation, etc. all of which interact with internal and external pressures that can lead to system-level changes. Synthesis of this information can yield new insight into the biogeochemical cycling of essential elements and provide a deeper understanding of ecosystem function and ecosystem productivity at the site and network level. 
 
 ## Goal
-The objective of this work is to stimulate cross-site syntheses related to biogeochemical cycling of energy and nutrients and to better understanding mechanisms that control productivity. The primary goal of this work is to foster collaborative synthesis between LTER sites related to ecological stoichiometry. 
+The objective of this work is to stimulate cross-site syntheses related to biogeochemical cycling of energy and nutrients and to better understanding mechanisms that control productivity (via ecological stoichiometry). The primary goal of this work is to foster collaborative synthesis between LTER sites related to ecological stoichiometry. 
 
 ## Where and what is an LTER site
 LTER sites (and their international counterparts; [ILTER](https://www.ilter.network/)) are located around the world. These sites with a rich history of ecological inquiry, collaboration across a wide range of research topics, and engagement with students, educators, and community members. More information on LTER sites and the LTER program visit the visit the [NSF LTER webpage](https://lternet.edu/).
@@ -31,12 +31,12 @@ The workshop will be organized into several invited very short talks to stimulat
 
 | Time Slot | Duration (Minutes) | Agenda Item | Ecosystem (LTER Site) |
 |:---------:|:--------:|:-----------------|:----|
-|3:30 - 3:40| 10 | General Introductions | |
+|3:30 - 3:40| 15 | General Introductions | |
 |3:40 - 3:47| 7  | Speaker #1 [Dr Walter K. Dodds](https://www.k-state.edu/biology/people/tenure/dodds/)|Streams (KNZ)|
 |3:47 - 3:54| 7  | Speaker #2 [Dr Becky Ball](http://www.public.asu.edu/~rball5/) | Cold and Arid Deserts (MCM & CAP) |
 |3:54 - 4:01| 7  | Speaker #3 [Dr John Kominoski](https://kominoskilab.wordpress.com/) | Coastal Wetlands (FCE) |
 |4:01 - 4:08| 7  | Speaker #4 [Dr Adam Wymore](https://colsa.unh.edu/faculty/wymore)| Tropics (LUQ) |
-|4:08 - 4:50| 40 | Round Table Discussion __Everyone__ | |
+|4:08 - 4:50| 35 | Round Table Discussion __Everyone__ | |
 |4:50 - 5:00| 10 | Wrap-up | |
 
 
@@ -48,6 +48,17 @@ Included in this repository is a excel spreadsheet to organize our synthesis eff
 
 ## Presentations
 
-1. Brief General Introduction to Stoichiometry and Motivation for the workshop. [ppt](https://github.com/SwampThingPaul/LTER_EcoStoich/blob/4849d8e9dc73a224d382fc10e0d39f793442f108/Stoich_Intro.pptx)
+1. Brief General Introduction to Stoichiometry and Motivation for the workshop. [link]
+2. Presentation by Dr Dodds [link]
+3. Presentation by Dr Ball [link]
+4. Presentation by Dr Kominoski [link]
+5. Presentation by Dr Wymore [link]
+6. Discussion - White board [link]
+
+## Next Steps
+
+Yes, I am already planning the future of this synthesis effort.
+
+Post Workshop Input [Link coming soon]
 
 ***
