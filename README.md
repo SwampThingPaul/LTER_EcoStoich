@@ -48,7 +48,7 @@ Included in this repository is a excel spreadsheet to organize our synthesis eff
 
 ## Presentations
 
-1. Brief General Introduction to Stoichiometry and Motivation for the workshop. [link]
+1. Brief General Introduction to Stoichiometry and Motivation for the workshop. [link](https://github.com/SwampThingPaul/LTER_EcoStoich/blob/1fa67d80d36ca85c6e2cd33c8d5872eddeb4af75/LTERASM2018/0_Stoich_Intro.pptx)
 2. Presentation by Dr Dodds [link]
 3. Presentation by Dr Ball [link]
 4. Presentation by Dr Kominoski [link]
