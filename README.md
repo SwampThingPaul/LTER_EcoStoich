@@ -53,7 +53,7 @@ Included in this repository is a excel spreadsheet to organize our synthesis eff
 3. Presentation by Dr Ball ([link](https://github.com/SwampThingPaul/LTER_EcoStoich/blob/7f0b25873ad71a0e393431b5925b5bfacbb722b9/LTERASM2018/2_Ball_Deserts.pdf))
 4. Presentation by Dr Kominoski ([link](https://github.com/SwampThingPaul/LTER_EcoStoich/blob/033309a35785dcb08dcd518d609330d11c7a32f6/LTERASM2018/3_Kominoski_coastal.pdf))
 5. Presentation by Dr Wymore [link]
-6. Discussion - White board (![Link](https://user-images.githubusercontent.com/36565183/46327255-a65f5300-c5ce-11e8-8e50-d96ca6f47ed2.jpg))
+6. Discussion - White board ([Link](https://user-images.githubusercontent.com/36565183/46327255-a65f5300-c5ce-11e8-8e50-d96ca6f47ed2.jpg))(Thanks John for recording!!)
 
 ## Next Steps
 
