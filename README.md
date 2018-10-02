@@ -25,7 +25,7 @@ LTER sites (and their international counterparts; [ILTER](https://www.ilter.netw
 
 ## Tentative Schedule 
 
-The workshop during the 2018 LTER ASM will be held October 1st (3:30pm - 5:00pm) in the Dolphin Meeting Room ([Link](http://sched.co/FYqW)). This workshop is set for 90-minutes and intended to inform and organize synthesis research specific to nutrient stoichiometry across the different LTER sites and affiliated networks. 
+The workshop during the 2018 LTER ASM will be held October 1st (3:30pm - 5:00pm) in the Marlin Meeting Room ([Link](http://sched.co/FYqW)). This workshop is set for 90-minutes and intended to inform and organize synthesis research specific to nutrient stoichiometry across the different LTER sites and affiliated networks. 
 
 The workshop will be organized into several invited very short talks to stimulate discussion (lighting talks ~7 minutes) followed by approximately 40-minutes of discussion. Below is a general schedule, it  is relatively tight for the speakers, these talks are intended to engage the group (activate that brain-power!!) to have a thoughtful discussion of ecological stoichiometry in the sense of long-term data. 
 
